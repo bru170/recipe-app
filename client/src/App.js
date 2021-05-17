@@ -1,5 +1,6 @@
 import './App.css';
-import Login from './components/login/Login';
+// import {AuthContext} from "./context/AuthContext"
+import Login from './components/login/Login'
 import Register from './components/login/Register'
 import Navbar from './components/navbar/Navbar'
 import Home from './pages/Home'
